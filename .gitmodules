@@ -1,0 +1,9 @@
+[submodule "bgfx"]
+	path = bgfx
+	url = https://github.com/Onirau/bgfx.git
+[submodule "bimg"]
+	path = bimg
+	url = https://github.com/Onirau/bimg.git
+[submodule "bx"]
+	path = bx
+	url = https://github.com/Onirau/bx.git
